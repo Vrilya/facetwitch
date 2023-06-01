@@ -31,6 +31,3 @@ Always remember to keep your session cookies and oauth tokens safe and do not sh
 
 To shut down the script, simply stop the script execution in your Python environment or press Ctrl+C in the terminal.
 
----
-
-Remember that this README assumes that the reader has a certain amount of knowledge about Python programming, using session cookies, and OAuth tokens. If your users may not have this knowledge, you might want to include additional information or links to tutorials.

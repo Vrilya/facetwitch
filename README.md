@@ -14,7 +14,7 @@ This Python script acts as a bridge between a Twitch chat and a Facebook chat. I
 
 ### Prerequisites
 
-- Python 3.5 or higher installed on your machine.
+- Python 3.6 is recommended when using this script as fbchat doesn't work correctly with higher versions.
 - The `fbchat` Python package installed in your Python environment. You can install it with the command `pip install fbchat`.
 
 ### Steps to run the script

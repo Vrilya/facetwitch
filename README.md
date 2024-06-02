@@ -1,3 +1,5 @@
+!!! Doesn't work anymore since Facebook implemented ETEE !!!
+
 # Twitch-Facebook Chat Bridge
 
 This Python script acts as a bridge between a Twitch chat and a Facebook chat. It works by establishing a connection to a specified Twitch chat using IRC protocol and a Facebook chat using the Facebook Chat API, with the ability to pass messages back and forth.
